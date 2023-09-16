@@ -80,8 +80,3 @@ You can follow the below steps to run the seller dashboard application in your s
 7. Voila! the admin server is ready for use. You can run it at [http://127.0.0.1:3000/](http://127.0.0.1:3000/).
 
 
-***Note:*** The products displayed in the web application are just for reference and do not correspond to any real products.
-
-
-#### :small_blue_diamond: Please do give a ⭐️ if you find this project useful.
-
